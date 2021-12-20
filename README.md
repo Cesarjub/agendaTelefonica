@@ -10,6 +10,6 @@ Agenda telefónica en Java con manejo de archivos.
 
 ---
 
-[![Agenda-Telefonica-cesarjub.gif](https://i.postimg.cc/fRcbKv41/Agenda-Telefonica-cesarjub.gif)](https://postimg.cc/fVbZWmRv)
+[![Agenda-Telefonica-cesarjub.gif](https://i.postimg.cc/cCPCJs2n/Agenda-Telefonica-cesarjub.gif)](https://postimg.cc/Wq6TWP2N)
 
 [Cesarjub](https://github.com/Cesarjub) 🙂
