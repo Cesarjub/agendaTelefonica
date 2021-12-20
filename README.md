@@ -4,7 +4,7 @@ Agenda telefónica en Java con manejo de archivos.
 
 ### Administración de contactos:
 
-----
+---
 
 - Agregar contactos.
 
